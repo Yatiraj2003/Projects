@@ -1,4 +1,4 @@
-## This section contains all my academic and external projects
+## This section contains details of all my academic and external projects and related files
 ### Project 1 | Active Filter Design Second Order Low pass and High Pass 
     • Firstly, we have discovered the universal active filter / state variable filter 
       in the textbooks and some research papers. We have thoroughly read the 
